@@ -1,0 +1,5 @@
+{
+  "name": "CertifyAI - Adaptive Learning Platform",
+  "description": "An intelligent, adaptive learning platform that uses Gemini to dynamically generate quizzes from syllabus content, tracks student progress in real-time, and provides powerful analytics for instructors.",
+  "requestFramePermissions": []
+}
